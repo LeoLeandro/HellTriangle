@@ -39,4 +39,4 @@ The method "calculateMaximumTotal" in TreeNode class get the root field (now pop
 
 ## Author
 
-* **Leonardo Leandro** - *Initial work* - [HellTriangle](https://github.com/LeoLeandro/HellTriangle
+* **Leonardo Leandro** - *Initial work* - [HellTriangle](https://github.com/LeoLeandro/HellTriangle)
